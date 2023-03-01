@@ -1,6 +1,5 @@
 ---
 title: "The Serial Gap in Long-Form Television"
-permalink: /projects/seriality-distant-viewing
 excerpt: "This project engages with formal implications of the serial gap in five popular television series. The project is currently a work in progress.<br/><img src='/images/seriality.jpeg'>"
 collection: projects
 ---
