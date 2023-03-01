@@ -229,7 +229,7 @@ defaults:
       comments: true
   # _projects
   - scope:
-      path: ""
+      path: "github.com/mikesori/portfolio/projects"
       type: projects
     values:
       layout: single
