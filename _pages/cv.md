@@ -16,16 +16,22 @@ Education
 
 Work experience
 ======
-Coming Soon.
+* Teaching, University of Miami (2022 - Present)
+  * WRS 105
+  * WRS 106
+* Private Tutor (English, History, Mathematics) (2021 - present)
+* Writing Center Tutor, University of Miami (2021 - 2022)
+* Instructor, Miami-Dade County Public Schools (2018 - 2021)
+  * G. Holmes Braddock Senior High School
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Writing and Research
+* Github
+* HTML & CSS
+* Languages
+  * English (Highly Proficient)
+  * Spanish (Reading)
 
 Publications
 ======
@@ -45,6 +51,13 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Fellowships and Awars
 ======
-Coming Soon.
+* University of Miami UDialogue Fellow (2022 - 2023)
+* Mellon HSI-Pathways to the Professoriate Fellow (2019 - 2020)
+
+Professional Societies
+======
+* Modern Language Association
+* American Studies Association
+* American Political Science Association
