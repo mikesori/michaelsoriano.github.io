@@ -51,7 +51,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Fellowships and Awars
+Fellowships and Awards
 ======
 * University of Miami UDialogue Fellow (2022 - 2023)
 * Mellon HSI-Pathways to the Professoriate Fellow (2019 - 2020)
