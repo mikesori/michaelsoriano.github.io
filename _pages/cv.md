@@ -60,4 +60,3 @@ Professional Societies
 ======
 * Modern Language Association
 * American Studies Association
-* American Political Science Association
