@@ -1,3 +1,8 @@
+---
+title: "Sentiment Analysis Project"
+excerpt: "This post contains the completed documentation for my Sentiment Analysis project. This project is seen as an experiment with Sentiment Analysis and R and should be taken as an incomplete work-in-progress."
+collection: projects
+---
 Attached to this post is a link to the Google Colab notebook for the Sentiment Analysis project. Please feel free to experiment with this project. I will also be providing a link to a Google Drive folder with the materials to complete the Analysis. 
 
 # Links for Download
