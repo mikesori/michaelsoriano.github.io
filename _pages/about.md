@@ -12,12 +12,19 @@ My name is Michael Soriano and I am a Graduate Student at the University of Miam
 
 Work and Research
 ======
-Coming Soon.
+- Seriality Studies
+- Television Studies
+- Lacanian Psychoanalysis
+- Caribbean Studies
+- Decolonial Studies
+
+My current research works to analyze the historical-temporal structure of seriality using Lacanian psychoanalytic metapsychology. What is seriality's narratological and political utility? The structure of serial desire? And seriality's effectivity in the construction of mass art?
 
 Background and Academic History
 ======
-Coming Soon.
+I am a HSI Pathways to the Professoriate Mellon Fellow recipient. I received my degree in English Literature at Florida International University. Additionally, I worked as a high school teacher (English Literature and Film Studies) for four years. 
 
 Intellectual Communities
 ------
-Coming Soon.
+- MLA
+- American Political Science Association
