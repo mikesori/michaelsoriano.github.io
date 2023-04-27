@@ -1,7 +1,7 @@
 ---
 title: "WRS 106"
 collection: teaching
-type: "course"
+type: "Undergraduate course"
 permalink: /teaching/wrs-106
 venue: "University of Miami, Writing Studies Department"
 date: 2023-04-27
