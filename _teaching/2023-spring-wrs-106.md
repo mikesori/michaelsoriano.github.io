@@ -4,7 +4,7 @@ collection: teaching
 type: "course"
 permalink: /teaching/wrs-106
 venue: "University of Miami, Writing Studies Department"
-date: 2015-01-01
+date: 2023-04-27
 location: "Miami, Florida"
 ---
 
