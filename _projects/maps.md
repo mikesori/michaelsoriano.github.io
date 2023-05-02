@@ -1,7 +1,7 @@
 ---
 title: "Maps"
 excerpt: "Map identifying site locations for five teams in the National Football League."
-collection: projects
+collection: class materials
 ---
 
 The map below is a very minor exploration of the Google Maps software. I have provided the addresses and map locations for various football teams in the National Football League. Again, this is a rather simple experiment with mapping integration onto Github. 
