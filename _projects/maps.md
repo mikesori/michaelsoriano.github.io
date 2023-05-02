@@ -1,5 +1,5 @@
 ---
-title: "Maps"
+title: "The NFL Site Maps"
 excerpt: "Map identifying site locations for five teams in the National Football League."
 collection: class materials
 ---
