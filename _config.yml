@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Michael Soriano"
   avatar           : "headshot3.png"
-  bio              : "Michael Soriano is a 2nd year PhD student in the English Department at the University of Miami"
-  location         : "[Miami, Florida](https://www.bing.com/search?q=miami+florida+map&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=miami+florida+map&sc=10-17&sk=&cvid=CFC81C25F984471FAD43B184670BBC29&ghsh=0&ghacc=0&ghpl=)"
+  bio              : "Michael Soriano is a 3rd year PhD student in the English Department at the University of Miami"
+  location         : "Miami, Florida"
   employer         : "University of Miami"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "mrs319@miami.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/mikesori"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/michael-soriano-468186125"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
