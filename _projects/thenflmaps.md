@@ -1,5 +1,5 @@
 ---
-title: "The NFL Site Maps"
+title: "In-Class Mapping Project"
 excerpt: "Map identifying site locations for five teams in the National Football League."
 collection: class materials
 ---
